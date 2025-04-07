@@ -1,0 +1,21 @@
+# Node & Python
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+.env
+
+# OS files
+.DS_Store
+
+# Expo & React Native
+.expo/
+.expo-shared/
+web-build/
+dist/
+android/
+ios/
