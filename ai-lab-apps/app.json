@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "story-generator-app",
-    "slug": "story-generator-app",
+    "name": "ai-lab-apps",
+    "slug": "ai-lab-apps",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
